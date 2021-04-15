@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alan-sabu
-- 👀 I’m interested in both hardware and software projects/assignments.
+- 👀 Interested in both hardware and software projects/assignments.
 - 🌱 I’m currently a Second Year student of Electronics and Communication Engineering (ECE) at NITW
 - 📫 You can reach me @- https://www.linkedin.com/in/alansabu/ 
 
