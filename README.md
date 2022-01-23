@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alan-sabu
 - 👀 Interested in both hardware and software projects/assignments.
-- 🌱 I’m currently a Second Year student of Electronics and Communication Engineering (ECE) at NITW
+- 🌱 I’m currently a Third Year student of Electronics and Communication Engineering (ECE) at NITW
 - 📫 You can reach me @- https://www.linkedin.com/in/alansabu/ 
 
 <!---
