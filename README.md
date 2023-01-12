@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ALAN SABU
-- 👀 Interested in Data Science/Analytics, Internet of Things(IoT), 5G.
+- 👀 Interested in Data Science/Analytics, Internet of Things(IoT) & 5G.
 - 🌱 Currently a Final Year student of Electronics and Communication Engineering (ECE) at NITW
 - 📫 You can reach me @- https://www.linkedin.com/in/alansabu/ 
 
